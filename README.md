@@ -1,2 +1,2 @@
 # build-pentadactyl
-Correctly build the latest Pentadactyl from hg
+`make` to correctly build the latest Pentadactyl from hg
